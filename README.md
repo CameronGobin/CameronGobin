@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CameronGobin
 - 👀 I’m interested in bettering humanity through innovation. 
-- 🌱 I’m currently learning the very basics of machine learning, advanced simulation modeling, and advanced quantitative modeling. 
+- 🌱 I’m currently learning the fundamentals of machine learning engineering, data engineering, and system adminstration. 
 - 💞️ I’m looking to collaborate on all data science projects; looking to gain both experience and skill.
 - 📫 How to reach me camerongobim@gmail.com (no that is not a typo)
 
